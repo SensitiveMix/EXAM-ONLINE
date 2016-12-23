@@ -1,0 +1,62 @@
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\ExamOnline.dll.config
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\ExamOnline.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\ExamOnline.pdb
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.AspNet.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.Core.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\EntityFramework.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\EntityFramework.SqlServer.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\Microsoft.Web.Infrastructure.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\System.Web.Providers.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\EntityFramework.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\EntityFramework.SqlServer.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\System.Web.Providers.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.Core.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\DotNetOpenAuth.AspNet.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\obj\Debug\ExamOnline.dll
+c:\users\孙祁\documents\visual studio 2013\Projects\ExamOnline\ExamOnline\obj\Debug\ExamOnline.pdb
+C:\Users\孙祁\Documents\Visual Studio 2013\Projects\ExamOnline\ExamOnline\obj\Debug\ExamOnline.csprojResolveAssemblyReference.cache
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\ExamOnline.dll.config
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\ExamOnline.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\ExamOnline.pdb
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\AspNet.ScriptManager.jQuery.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.AspNet.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.Core.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\EntityFramework.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\EntityFramework.SqlServer.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\System.Web.Providers.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\EntityFramework.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\EntityFramework.SqlServer.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\System.Web.Providers.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.Core.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\DotNetOpenAuth.AspNet.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\obj\Debug\ExamOnline.csprojResolveAssemblyReference.cache
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\obj\Debug\ExamOnline.dll
+D:\各种系统课题研究\毕设\ExamOnline\ExamOnline\obj\Debug\ExamOnline.pdb
