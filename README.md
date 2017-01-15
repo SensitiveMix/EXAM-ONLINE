@@ -9,7 +9,7 @@
 
 ## Installation
 ```bash
-git clone git@github.com:sunNode/EXAM-ONLINE.git
+git clone git@github.com:SensitiveMix/EXAM-ONLINE.git
 ```
 
 ## Usage
