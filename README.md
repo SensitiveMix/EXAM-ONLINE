@@ -13,9 +13,9 @@ git clone git@github.com:SensitiveMix/EXAM-ONLINE.git
 ```
 
 ## Usage
-* C#
-* web Form
-* SQL SERVER
+- `C#`
+- `web Form`
+- `SQL SERVER`
 
 
 ## LICENSE
